@@ -10,3 +10,9 @@ http://web.stanford.edu/class/cs224w/index.html
 - Network visualization
 - Working with a KarateClub as a common dataset in `torch_geometric.datasets`
 - Implementing a simple Graph Neural Network (GNN)
+
+## Colab 1:
+
+- Extract necessary information of graphs using NetworkX functionalities
+- Create and manipulate node embeddings using `nn.Embedding` module in PyTorch
+- Learn node embeddings on Karate dataset 
